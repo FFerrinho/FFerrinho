@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FFerrinho
 - 👀 I’m interested in computers (yeah, broad term for systems, cloud and scripting) and computer games.
-- 🌱 I’m currently working as a Cloud Architect in Google Cloud Platform.
-- 💞️ I’m looking to collaborate on anything cloud (GCP, Azure) and PowerShell.
+- 🌱 I’m currently working as a Cloud Architect with Google Cloud Platform.
+- 💞️ I’m looking to collaborate on anything cloud (GCP, Azure), Terraform and PowerShell.
 - 📫 Reach me via LinkedIn preferably.
 
 <!---
